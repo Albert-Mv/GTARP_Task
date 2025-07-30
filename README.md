@@ -1,5 +1,7 @@
 # GTARP_Task
 
+[Ссылка на CodeSandbox](https://codesandbox.io/p/github/Albert-Mv/GTARP_Task/main?import=true)
+
 **Для вывода таблицы в консоль необходимо выполнить следующую команду:**
 ```
 node tableGenerator
